@@ -63,5 +63,4 @@ Fiecare parametru este calculat în timp real pe baza a $N$ eșantioane:
 
 * `Documentation/` – Documentațiile detaliate pe etape (P1 - Concepție Hardware, P2 - Documentare Componente, P3 - Testare Senzori, P4 - Dezvoltare LabVIEW, P5/P6 - Proiect Final compilate în format PDF).
 * `VI/` – Fișierele sursă LabVIEW: instrumentul virtual principal `PowerAnalyser.vi` și controalele personalizate (`.ctl`).
-* `Photos/` – Capturi de ecran ale interfeței grafice (Front Panel), scheme electrice și imagini ale montajului hardware.
 * `Simulation Models/` – Modele de simulare utilizate pentru validarea teoretică.
