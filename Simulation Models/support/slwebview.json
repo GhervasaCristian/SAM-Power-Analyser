@@ -1,0 +1,29 @@
+{
+ "version":3,
+ "baseUrl":"support/slwebview_files",
+ "homeHid":1,
+ "sections":[
+  {
+   "hid":1,
+   "sid":"PowerAnalyserModel",
+   "name":"PowerAnalyserModel",
+   "fullname":"PowerAnalyserModel",
+   "label":"PowerAnalyserModel",
+   "parent":0,
+   "descendantIDs":[
+    2,
+    32
+   ],
+   "descendantsURL":"support/slwebview_files/PowerAnalyserModel_diagrams_1.json",
+   "sysViewURL":"support/slwebview_files/PowerAnalyserModel_p.json"
+  }
+ ],
+ "optViews":[
+ ],
+ "display":{
+  "informer":false,
+  "notes":false
+ },
+ "iconsUrl":"support/slwebview_files/icon.css",
+ "lod":true
+}
